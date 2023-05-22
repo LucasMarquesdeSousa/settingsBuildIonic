@@ -1,0 +1,7 @@
+{
+  "name": "testBuildAPK",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
